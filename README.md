@@ -13,8 +13,9 @@ rithm?_
 4. Know and understand the matrix-chain multiplication problem. Complexity? Be able to
 trace through an example
  - O(n^3)
- - Others done.
+ - Others done. Matrix folder
 
 5. Now and understand the longest common subsequence problem. Complexity? Be able to
 trace through an example
- - 
+ - O(m+n)
+ - Others done: LCS folder
