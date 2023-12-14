@@ -9,3 +9,12 @@ rithm?_
     - 4. Construct an optimal solution from computed  information
 
 3. Know and understand the Fibonacci sequence problem. Complexity?
+ - [video](https://www.youtube.com/watch?v=5dRGRueKU3M)
+4. Know and understand the matrix-chain multiplication problem. Complexity? Be able to
+trace through an example
+ - O(n^3)
+ - Others done.
+
+5. Now and understand the longest common subsequence problem. Complexity? Be able to
+trace through an example
+ - 
